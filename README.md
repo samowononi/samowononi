@@ -1,5 +1,5 @@
 # Hello, I'm Sam
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="[https://linkedin.com](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
 
@@ -28,9 +28,19 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 
 ### Network
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/Wireshark-005F9E?style=for-the-badge&logo=wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/Nmap-005F9E?style=for-the-badge&logo=nmap&logoColor=white)" />
+    <img src="https://img.shields.io/badge/Snort-005F9E?style=for-the-badge&logo=snort&logoColor=white)" />
+
+</div>
+
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/Parrot%20OS-10BB82?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+
 </div>
 
 ### Endpoint
