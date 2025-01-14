@@ -55,6 +55,13 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
+## Academic
+<div>
+    
+[![Federal University of Technology, Minna](https://img.shields.io/badge/Federal%20University%20Of%20Technology%20Minna-006747?style=for-the-badge)](https://futminna.edu.ng/)  [![University of Bolton](https://img.shields.io/badge/University%20of%20Bolton-005CAB?style=for-the-badge)](https://www.bolton.ac.uk/)
+
+</div>
+
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
