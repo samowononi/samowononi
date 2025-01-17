@@ -12,7 +12,7 @@ I have a profound interest in technology and a dedication to solving complex pro
 My academic journey has shown my strong passion for cybersecurity. I am eager to begin my career in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in monitoring, analyzing, and mitigating security incidents to protect critical systems and data.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
