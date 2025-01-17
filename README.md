@@ -16,7 +16,7 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis and Attack Detection          | <a href="https://github.com/samowononi/Network-Traffic-Analysis-Unauthorized-Access-and-Data-Exfiltration/tree/main">Network Traffic Analysis and Attack Detection</a>|
+| Network Traffic Analysis and Attack Detection          | <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -70,5 +70,5 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 </div>
 
 ## Projects
--  <a href="https://github.com/samowononi/Network-Traffic-Analysis-Unauthorized-Access-and-Data-Exfiltration/tree/main">Network Traffic Analysis and Attack Detection</a>
+-  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
 - SOC Automation Project
