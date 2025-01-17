@@ -70,5 +70,5 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 </div>
 
 ## Projects
--  <a href="https://github.com/samowononi/Network-Traffic-Analysis-Unauthorized-Access-and-Data-Exfiltration/tree/main">Network Traffic Analysis</a>
+-  <a href="https://github.com/samowononi/Network-Traffic-Analysis-Unauthorized-Access-and-Data-Exfiltration/tree/main">Network Traffic Analysis and Attack Detection</a>
 - SOC Automation Project
