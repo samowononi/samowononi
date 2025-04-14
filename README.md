@@ -1,5 +1,6 @@
 # 👋 Hello, this is Sam
-[<a href="[https://linkedin.com](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)
+
+<a href="https://www.linkedin.com/in/toluwase-owononi-a7b7421b2)">Linkedin</a>
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
 
