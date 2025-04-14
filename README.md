@@ -59,3 +59,4 @@ I'm passionate about defending systems and data from threats. My academic backgr
 
 ## 🧪Projects
 -  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
+  Analyzed real-world packet captures using Wireshark to identify malicious traffic patterns. Focused on detecting reconnaissance scans, brute-force attempts, unauthorized access probes, and data exfiltration.
