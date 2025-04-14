@@ -1,5 +1,5 @@
 # 👋 Hello, this is Sam
-<a href="[https://linkedin.com](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+[<a href="[https://linkedin.com](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
 
@@ -25,10 +25,10 @@ I'm passionate about defending systems and data from threats. My academic backgr
 
 <div>
 Operating Systems: Linux (Ubuntu, Kali), Windows
-
+    
 Security Tools: Wireshark, Snort, Fail2Ban, Splunk MLTK, Nmap, Metasploit
 
-SIEM Platforms: Splunk (hands-on experience)
+SIEM Platforms: Splunk 
 
 Cloud Platforms: AWS (basic implementation projects)
     
