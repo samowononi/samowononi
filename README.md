@@ -17,11 +17,9 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis and Attack Detection          | <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Cloud Security Implementation | Coming soon|
+| Intrusion Detection and Prevention System using Snort, Fail2ban, and Splunk MLTK         | Coming soon|
+| Phishing Attack Simulation      | Coming soon|
 
 ## Tools
 
@@ -51,18 +49,24 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 
 ## Academic
 <div>
-    
-[![Federal University of Technology, Minna](https://img.shields.io/badge/Federal%20University%20Of%20Technology%20Minna-006747?style=for-the-badge)](https://futminna.edu.ng/)  [![University of Bolton](https://img.shields.io/badge/University%20of%20Bolton-005CAB?style=for-the-badge)](https://www.bolton.ac.uk/)
+
+[![University of Bolton](https://img.shields.io/badge/University%20of%20Bolton-005CAB?style=for-the-badge)](https://www.bolton.ac.uk/)
+Master of Science (MSc) in Cloud and Network Security (In-view)	 May 2024 - May 2025
+University of Bolton, Greater Manchester, United Kingdom
+
+[![Federal University of Technology, Minna](https://img.shields.io/badge/Federal%20University%20Of%20Technology%20Minna-006747?style=for-the-badge)](https://futminna.edu.ng/) 
+Bachelor of Technology (B.Tech) in Cyber Security Science	 Oct 2017 - Jan 2024
+Federal University of Technology Minna, Niger State, Nigeria
+
 
 </div>
 
 ## Certifications
 <div>
 
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Coming soon...
 
 </div>
 
 ## Projects
 -  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
-- SOC Automation Project
