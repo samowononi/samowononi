@@ -1,4 +1,4 @@
-# Hello, I'm Sam
+# 👋 Hello, this is Sam
 <a href="[https://linkedin.com](https://www.linkedin.com/in/toluwase-owononi-a7b7421b2/)"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
@@ -7,68 +7,54 @@ I am building a portfolio that showcases my practical skills in areas like Penet
 
 I have a profound interest in technology and a dedication to solving complex problems.
 
-## Objective
+## 🎯Career Objective
 
-My academic journey has shown my strong passion for cybersecurity. I am eager to begin my career in a Security Operations Center (SOC) as a Tier 1 Analyst, where I can apply my skills in monitoring, analyzing, and mitigating security incidents to protect critical systems and data.
+I'm passionate about defending systems and data from threats. My academic background and hands-on learning reflect that passion. I'm looking to kick-start my cybersecurity career as a Security Analyst, where I can actively contribute to monitoring, analyzing, and mitigating real-world security incidents.
 
-## Skills
+## 🛠️ Skills & Projects
 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Traffic Analysis and Attack Detection          | <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>|
-| Cloud Security Implementation | Coming soon|
-| Intrusion Detection and Prevention System using Snort, Fail2ban, and Splunk MLTK         | Coming soon|
-| Phishing Attack Simulation      | Coming soon|
+| Network Traffic Analysis and Attack Detection          | ✅<a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>|
+| Cloud Security Implementation | 🔄Coming soon|
+| Intrusion Detection and Prevention System using Snort, Fail2ban, and Splunk MLTK         | 🔄Coming soon|
+| Phishing Attack Simulation      | 🔄Coming soon|
 
-## Tools
+## 🧰 Tools & Platforms
 
-### Network
 <div>
-    <img src="https://img.shields.io/badge/Wireshark-005F9E?style=for-the-badge&logo=wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/Nmap-005F9E?style=for-the-badge&logo=nmap&logoColor=white)" />
-    <img src="https://img.shields.io/badge/Snort-005F9E?style=for-the-badge&logo=snort&logoColor=white)" />
+Operating Systems: Linux (Ubuntu, Kali), Windows
 
+Security Tools: Wireshark, Snort, Fail2Ban, Splunk MLTK, Nmap, Metasploit
+
+SIEM Platforms: Splunk (hands-on experience)
+
+Cloud Platforms: AWS (basic implementation projects)
+    
 </div>
 
-### Operating Systems
-<div>
-    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-    <img src="https://img.shields.io/badge/Parrot%20OS-10BB82?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
 
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-## Academic
+## 🎓Academic
 <div>
 
-[![University of Bolton](https://img.shields.io/badge/University%20of%20Bolton-005CAB?style=for-the-badge)](https://www.bolton.ac.uk/)
+MSc – Cloud and Network Security (In View)
+University of Bolton, United Kingdom
+May 2024 – May 2025
 
-Master of Science (MSc) in Cloud and Network Security (In-view)	 May 2024 - May 2025
-University of Bolton, Greater Manchester, United Kingdom
-
-[![Federal University of Technology, Minna](https://img.shields.io/badge/Federal%20University%20Of%20Technology%20Minna-006747?style=for-the-badge)](https://futminna.edu.ng/) 
-
-Bachelor of Technology (B.Tech) in Cyber Security Science	 Oct 2017 - Jan 2024
-Federal University of Technology Minna, Niger State, Nigeria
+B.Tech – Cyber Security Science
+Federal University of Technology Minna, Nigeria
+October 2017 – January 2024
 
 
 </div>
 
-## Certifications
+## 📜Certifications
 <div>
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Coming soon...
 
 </div>
 
-## Projects
+## 🧪Projects
 -  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
