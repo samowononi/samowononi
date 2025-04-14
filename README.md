@@ -1,6 +1,7 @@
 # 👋 Hello, this is Sam
 
 <a href="https://www.linkedin.com/in/toluwase-owononi-a7b7421b2)">Linkedin</a>
+[LinkedIn](#) <!-- https://www.linkedin.com/in/toluwase-owononi-a7b7421b2 -->
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
 
@@ -24,38 +25,30 @@ I'm passionate about defending systems and data from threats. My academic backgr
 
 ## 🧰 Tools & Platforms
 
-<div>
-Operating Systems: Linux (Ubuntu, Kali), Windows
+- **Operating Systems:** Linux (Ubuntu, Kali), Windows  
+- **Security Tools:** Wireshark, Snort, Fail2Ban, Splunk MLTK, Nmap, Metasploit  
+- **SIEM Platforms:** Splunk  
+- **Cloud Platforms:** AWS 
     
-Security Tools: Wireshark, Snort, Fail2Ban, Splunk MLTK, Nmap, Metasploit
-
-SIEM Platforms: Splunk 
-
-Cloud Platforms: AWS (basic implementation projects)
-    
-</div>
-
 
 ## 🎓Academic
-<div>
 
-MSc – Cloud and Network Security (In View)
-University of Bolton, United Kingdom
-May 2024 – May 2025
+**MSc – Cloud and Network Security** *(In Progress)*  
+*University of Bolton, United Kingdom*  
+📅 May 2024 – May 2025  
 
-B.Tech – Cyber Security Science
-Federal University of Technology Minna, Nigeria
-October 2017 – January 2024
+**B.Tech – Cyber Security Science**  
+*Federal University of Technology Minna, Nigeria*  
+📅 October 2017 – January 2024  
 
 
-</div>
 
 ## 📜Certifications
-<div>
+
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Coming soon...
 
-</div>
+
 
 ## 🧪Projects
 -  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
