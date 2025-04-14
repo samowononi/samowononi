@@ -1,7 +1,7 @@
 # 👋 Hello, this is Sam
 
-<a href="https://www.linkedin.com/in/toluwase-owononi-a7b7421b2)">Linkedin</a>
-[LinkedIn](#) <!-- https://www.linkedin.com/in/toluwase-owononi-a7b7421b2 -->
+<a href="https://www.linkedin.com/in/toluwase-owononi-a7b7421b2)">LinkedIn</a>
+
 
 I’m a cybersecurity enthusiast with a BTech in Cyber Security Science and currently pursuing a Master’s in Cloud and Network Security at the University of Bolton.
 
@@ -9,9 +9,13 @@ I am building a portfolio that showcases my practical skills in areas like Penet
 
 I have a profound interest in technology and a dedication to solving complex problems.
 
+---
+
 ## 🎯Career Objective
 
 I'm passionate about defending systems and data from threats. My academic background and hands-on learning reflect that passion. I'm looking to kick-start my cybersecurity career as a Security Analyst, where I can actively contribute to monitoring, analyzing, and mitigating real-world security incidents.
+
+---
 
 ## 🛠️ Skills & Projects
 
@@ -23,6 +27,8 @@ I'm passionate about defending systems and data from threats. My academic backgr
 | Intrusion Detection and Prevention System using Snort, Fail2ban, and Splunk MLTK         | 🔄Coming soon|
 | Phishing Attack Simulation      | 🔄Coming soon|
 
+---
+
 ## 🧰 Tools & Platforms
 
 - **Operating Systems:** Linux (Ubuntu, Kali), Windows  
@@ -30,6 +36,7 @@ I'm passionate about defending systems and data from threats. My academic backgr
 - **SIEM Platforms:** Splunk  
 - **Cloud Platforms:** AWS 
     
+---
 
 ## 🎓Academic
 
@@ -41,14 +48,14 @@ I'm passionate about defending systems and data from threats. My academic backgr
 *Federal University of Technology Minna, Nigeria*  
 📅 October 2017 – January 2024  
 
-
+---
 
 ## 📜Certifications
 
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /> Coming soon...
 
-
+---
 
 ## 🧪Projects
 -  <a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>
