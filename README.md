@@ -51,10 +51,12 @@ My academic journey has shown my strong passion for cybersecurity. I am eager to
 <div>
 
 [![University of Bolton](https://img.shields.io/badge/University%20of%20Bolton-005CAB?style=for-the-badge)](https://www.bolton.ac.uk/)
+
 Master of Science (MSc) in Cloud and Network Security (In-view)	 May 2024 - May 2025
 University of Bolton, Greater Manchester, United Kingdom
 
 [![Federal University of Technology, Minna](https://img.shields.io/badge/Federal%20University%20Of%20Technology%20Minna-006747?style=for-the-badge)](https://futminna.edu.ng/) 
+
 Bachelor of Technology (B.Tech) in Cyber Security Science	 Oct 2017 - Jan 2024
 Federal University of Technology Minna, Niger State, Nigeria
 
