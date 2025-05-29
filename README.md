@@ -23,8 +23,8 @@ I'm passionate about defending systems and data from threats. My academic backgr
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Traffic Analysis and Attack Detection          | ✅<a href="https://github.com/samowononi/Network-Traffic-Analysis-and-Attack-Detection">Network Traffic Analysis and Attack Detection</a>|
+| Intrusion Detection and Prevention System using Snort and Fail2ban         | ✅<a href="https://github.com/samowononi/Intrusion-Detection-and-Prevention-System-using-Snort-and-Fail2ban"> Intrusion Detection and Prevention System </a>|
 | Cloud Security Implementation | 🔄Coming soon|
-| Intrusion Detection and Prevention System using Snort, Fail2ban, and Splunk MLTK         | 🔄Coming soon|
 | Phishing Attack Simulation      | 🔄Coming soon|
 
 ---
